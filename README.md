@@ -1,2 +1,9 @@
-# bethehero
-Projeto Be The Hero criado na semana Omnistack da Rocketseat
+# Be The Hero
+
+Projeto que criei na semana Omnistack da Rocketseat
+
+# Tecnologia
+
+- ReactJS
+- React Native
+- NodeJS
